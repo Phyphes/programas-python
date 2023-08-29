@@ -1,7 +1,7 @@
-# Programas de la materia de Computación Aplicada
+# Programas en Phyton de la materia de Computación Aplicada
 
-Mariana Lizeth Mendoza Belmontes
-34152002@uaz.edu.mx
+- Nombre: Mariana Lizeth Mendoza Belmontes
+- Correo: 34152002@uaz.edu.mx
 
 ## Actividad 1
 - Programa 1

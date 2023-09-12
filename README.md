@@ -1,4 +1,4 @@
-# Programas en Phyton de la materia de Computación Aplicada
+# Programas en Python de la materia de Computación Aplicada
 
 - Nombre: Mariana Lizeth Mendoza Belmontes
 - Correo: 34152002@uaz.edu.mx
@@ -17,7 +17,7 @@
 - p07-funciones-trigonometricas
 - p08-dividir-en-cifras
 
-## Tarea 1
+### Tarea 1
 
 - p09-hipotenusa-triangulo
 - p10-tercer-angulo
@@ -39,3 +39,12 @@
 - p20-ley-de-newton
 - p21-aceptar-estudiante
 - p22-tipo-angulo
+
+### Tarea 2
+
+- p23-numeros-consecutivos
+- p24-numero-mayor
+- p25-dia-de-la-semana
+- p26-numeros-romanos
+- p27-calculo-de-notas
+- p28-aceptar-estudiante-v2

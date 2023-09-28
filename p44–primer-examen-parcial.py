@@ -20,7 +20,7 @@ while True:
     if tipo_usuario == 1 and tipo_paquete == 1:
         print(f"Tu pedido fue = {cantidad} inscripciones, Tipo de usuario: Alumno $100, Tipo de paquete: Conferencias $600")
         subtotal = (alumno + conferencias) * cantidad
-        if subtotal >= 5000:
+        if subtotal > 5000:
             descuento = subtotal * 0.20
             total = subtotal - descuento
             print(f"Subtotal: {subtotal}, con un descuento de {descuento} (20%) por lo que el total sería {total}")
@@ -33,7 +33,7 @@ while True:
     if tipo_usuario == 1 and tipo_paquete == 2:
         print(f"Tu pedido fue = {cantidad} inscripciones, Tipo de usuario: Alumno $100, Tipo de paquete: Eventos Sociales $800")
         subtotal = (alumno + eventos_sociales) * cantidad
-        if subtotal >= 5000:
+        if subtotal > 5000:
             descuento = subtotal * 0.20
             total = subtotal - descuento
             print(f"Subtotal: {subtotal}, con un descuento de {descuento} (20%) por lo que el total sería {total}")
@@ -46,7 +46,7 @@ while True:
     if tipo_usuario == 1 and tipo_paquete == 3:
         print(f"Tu pedido fue = {cantidad} inscripciones, Tipo de usuario: Alumno $100, Tipo de paquete: Kit de Acceso $900")
         subtotal = (alumno + kit_acceso) * cantidad
-        if subtotal >= 5000:
+        if subtotal > 5000:
             descuento = subtotal * 0.20
             total = subtotal - descuento
             print(f"Subtotal: {subtotal}, con un descuento de {descuento} (20%) por lo que el total sería {total}")
@@ -59,7 +59,7 @@ while True:
     if tipo_usuario == 2 and tipo_paquete == 1:
         print(f"Tu pedido fue = {cantidad} inscripciones, Tipo de usuario: Trabajador $200, Tipo de paquete: Conferencias $600")
         subtotal = (trabajador + conferencias) * cantidad
-        if subtotal >= 5000:
+        if subtotal > 5000:
             descuento = subtotal * 0.10
             total = subtotal - descuento
             print(f"Subtotal: {subtotal}, con un descuento de {descuento} (10%) por lo que el total sería {total}")
@@ -72,7 +72,7 @@ while True:
     if tipo_usuario == 2 and tipo_paquete == 2:
         print(f"Tu pedido fue = {cantidad} inscripciones, Tipo de usuario: Trabajador $200, Tipo de paquete: Eventos Sociales $800")
         subtotal = (trabajador + eventos_sociales) * cantidad
-        if subtotal >= 5000:
+        if subtotal > 5000:
             descuento = subtotal * 0.10
             total = subtotal - descuento
             print(f"Subtotal: {subtotal}, con un descuento de {descuento} (10%) por lo que el total sería {total}")
@@ -85,7 +85,7 @@ while True:
     if tipo_usuario == 2 and tipo_paquete == 3:
         print(f"Tu pedido fue = {cantidad} inscripciones, Tipo de usuario: Trabajador $200, Tipo de paquete: Kit de Acceso $900")
         subtotal = (trabajador + kit_acceso) * cantidad
-        if subtotal >= 5000:
+        if subtotal > 5000:
             descuento = subtotal * 0.10
             total = subtotal - descuento
             print(f"Subtotal: {subtotal}, con un descuento de {descuento} (10%) por lo que el total sería {total}")
@@ -98,7 +98,7 @@ while True:
     if tipo_usuario == 3 and tipo_paquete == 1:
         print(f"Tu pedido fue = {cantidad} inscripciones, Tipo de usuario: Docente $500, Tipo de paquete: Conferencias $600")
         subtotal = (docente + conferencias) * cantidad
-        if subtotal >= 5000:
+        if subtotal > 5000:
             descuento = subtotal * 0.05
             total = subtotal - descuento
             print(f"Subtotal: {subtotal}, con un descuento de {descuento} (5%) por lo que el total sería {total}")
@@ -111,7 +111,7 @@ while True:
     if tipo_usuario == 3 and tipo_paquete == 2:
         print(f"Tu pedido fue = {cantidad} inscripciones, Tipo de usuario: Docente $500, Tipo de paquete: Eventos Sociales $800")
         subtotal = (docente + eventos_sociales) * cantidad
-        if subtotal >= 5000:
+        if subtotal > 5000:
             descuento = subtotal * 0.05
             total = subtotal - descuento
             print(f"Subtotal: {subtotal}, con un descuento de {descuento} (5%) por lo que el total sería {total}")
@@ -124,7 +124,7 @@ while True:
     if tipo_usuario == 3 and tipo_paquete == 3:
         print(f"Tu pedido fue = {cantidad} inscripciones, Tipo de usuario: Docente $500, Tipo de paquete: Kit de Acceso $900")
         subtotal = (docente + kit_acceso) * cantidad
-        if subtotal >= 5000:
+        if subtotal > 5000:
             descuento = subtotal * 0.05
             total = subtotal - descuento
             print(f"Subtotal: {subtotal}, con un descuento de {descuento} (5%) por lo que el total sería {total}")

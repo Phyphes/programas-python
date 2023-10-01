@@ -74,6 +74,7 @@
 - p43-numero-mayor
 
 ## Primer Examen Parcial 
+
 - p44–primer-examen-parcial
 
 ## Actividad 7
@@ -91,3 +92,11 @@
 - p52-tablas-multiplicar-v2
 - p53-piramide-caracter
 - p54-factorial-numeros
+
+### Tarea 4
+
+- p55-numeros-10-en-10
+- p56-suma-pares-2-n
+- p57-secuencia-numeros-1
+- p58–secuencia-numeros-2
+- p59-secuencia-terminos-1

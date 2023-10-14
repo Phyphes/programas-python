@@ -115,3 +115,9 @@
 - p66-modifcar-lista
 - p67-remover-lista
 - p68-lista-promedio
+
+## Actividad 10
+
+- p80–estudiante
+- p81–calificaciones
+- p82–nombres-edades

@@ -121,3 +121,11 @@
 - p80–estudiante
 - p81–calificaciones
 - p82–nombres-edades
+
+### Tarea 6
+
+- p83-crear-acceder-diccionario
+- p84-modificar-diccionario
+- p85-agregar-diccionario
+- p86-eliminar-diccionario
+- p87-procesar-diccionario

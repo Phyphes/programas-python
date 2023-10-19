@@ -139,3 +139,7 @@
 
 - p90-personas
 - p91-numeros
+
+## Segundo Examen Parcial 
+
+- p92–segundo-examen-parcial

@@ -134,3 +134,8 @@
 
 - p88-trabajando-conjuntos
 - p89-operaciones-conjuntos
+
+### Tarea 7
+
+- p90-personas
+- p91-numeros

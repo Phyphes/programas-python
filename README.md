@@ -143,3 +143,22 @@
 ## Segundo Examen Parcial 
 
 - p92–segundo-examen-parcial
+
+## Actividad 12
+
+- p93-funcion
+- p94-funcion-parametro
+- p95-funcion-parametros
+- p96-funcion-mas-parametros
+- p97-funcion-parametros-nombre
+- p98-funcion-parametros-por-defecto
+- p99-funcion-suma
+- p100-tabla-multiplicar
+- p101-cuadro-caracter
+- p102-numero-mayor
+- p103-estacion-año
+- p104-temperatura
+- p105-suma-digitos
+- p106-factorial
+- p107-calificacion-letra
+- p108-suma-rango

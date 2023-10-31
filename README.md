@@ -162,3 +162,10 @@
 - p106-factorial
 - p107-calificacion-letra
 - p108-suma-rango
+
+### Tarea 8
+
+- p109–numero-menor
+- p110–dia-semana
+- p111–medidas-longitud
+- p112–suma-pares-impares

@@ -169,3 +169,16 @@
 - p110–dia-semana
 - p111–medidas-longitud
 - p112–suma-pares-impares
+
+## Actividad 13
+
+- p113-suma
+- p114-pares
+- p115-mayor-menor
+- p116-mayores-promedio
+- p117-pares-impares
+- p118-aleatorios
+- p119-nombres
+- p120-funciones
+- p121-usa-funciones
+- p122-modulos-integrados

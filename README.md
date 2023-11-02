@@ -182,3 +182,9 @@
 - p120-funciones
 - p121-usa-funciones
 - p122-modulos-integrados
+
+### Tarea 9
+
+- p123-suma-digitos-lista
+- p124-calcula-factoriales
+- p125-estadisticas-basicas

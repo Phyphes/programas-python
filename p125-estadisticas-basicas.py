@@ -1,8 +1,7 @@
 # Crear una lista y aplicar funciones estadísticas
 
 import os ; os.system("cls")
-
-import statistics
+from math import sqrt
 
 def leer():
     lista = []
@@ -27,15 +26,32 @@ def menor(lista):
     return m
 
 def media(lista):
-    media = statistics.mean(lista)
-    return media
+    s = 0
+    for n in lista:
+        s += n
+    return s / len(lista)
 
 def varianza(lista):
-    varianza = statistics.pvariance(lista)
-    return varianza
+    media = 0
+    for n in lista:
+        media += n
+    media =  media / len(lista)
+    suma = 0
+    for n in lista:
+        suma += (n - media)**2
+    var = (suma * 1 / len(lista))
+    return var
 
 def desviacion(lista):
-    desviacion = statistics.pstdev(lista)
+    media = 0
+    for n in lista:
+        media += n
+    media =  media / len(lista)
+    suma = 0
+    for n in lista:
+        suma += (n - media)**2
+    varianza = (suma * 1 / len(lista))
+    desviacion = sqrt(varianza)
     return desviacion
 
 l = leer()

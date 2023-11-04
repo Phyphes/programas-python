@@ -20,6 +20,6 @@ def factoriales(lista):
     return sd
 
 l = leer()
-l_factorial = factoriales(l)
+l_f = factoriales(l)
 print("Lista original            : ", l, len(l))
-print("Lista con los factoriales : ", l_factorial, len(l_factorial))
+print("Lista con los factoriales : ", l_f, len(l_f))

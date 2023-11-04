@@ -22,6 +22,6 @@ def suma_digitos(lista):
     return sd
 
 l = leer()
-l_suma = suma_digitos(l)
+l_sd = suma_digitos(l)
 print("Lista original               : ", l, len(l))
-print("Lista con la suma de dígitos : ", l_suma, len(l_suma))
+print("Lista con la suma de dígitos : ", l_sd, len(l_sd))

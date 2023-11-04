@@ -21,7 +21,7 @@ def suma_digitos(lista):
         sd.append(suma)
     return sd
 
-l = leer()
-l_sd = suma_digitos(l)
-print("Lista original               : ", l, len(l))
-print("Lista con la suma de dígitos : ", l_sd, len(l_sd))
+lista = leer()
+lista_suma_digitos = suma_digitos(lista)
+print("Lista original               : ", lista, len(lista))
+print("Lista con la suma de dígitos : ", lista_suma_digitos, len(lista_suma_digitos))

@@ -19,7 +19,7 @@ def factoriales(lista):
         sd.append(f)
     return sd
 
-l = leer()
-l_f = factoriales(l)
-print("Lista original            : ", l, len(l))
-print("Lista con los factoriales : ", l_f, len(l_f))
+lista = leer()
+lista_factoriales = factoriales(lista)
+print("Lista original            : ", lista, len(lista))
+print("Lista con los factoriales : ", lista_factoriales, len(lista_factoriales))

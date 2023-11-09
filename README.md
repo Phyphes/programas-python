@@ -189,3 +189,8 @@
 - p124-calcula-factoriales
 - p125-estadisticas-basicas
 
+## Actividad 14
+
+- p126-empleado
+- p127-circulo
+- p128-rectangulo

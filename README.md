@@ -202,3 +202,7 @@
 ## Actividad 15
 
 - p130-ventas
+
+## Tercer Examen Parcial
+
+- p131-tercer-examen-parcial
